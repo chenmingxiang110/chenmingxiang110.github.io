@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mingxiang Chen"
   avatar           : "profile.png"
-  bio              : "AI Application Engineer\n@Ant Group"
-  location         : "Hangzhou, China"
-  employer         :
+  bio              : "AI Application Engineer"
+  location         : "Ant Group"
+  employer         : "Hangzhou, China"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=re9Yg2YAAAAJ&hl=zh-CN"
   email            :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
