@@ -1,0 +1,12 @@
+---
+title: "Parsing Line Segments of Floor Plan Images Using Graph Neural Networks"
+collection: publications
+permalink: /publication/paper-2303.03851
+excerpt: ''
+date: 2023-03-07
+paperurl: 'https://arxiv.org/pdf/2303.03851.pdf'
+citation: ''
+---
+In this paper, we present a GNN-based Line Segment Parser (GLSP), which uses a junction heatmap to predict line segments' endpoints, and graph neural networks to extract line segments and their categories. Different from previous floor plan recognition methods, which rely on semantic segmentation, our proposed method is able to output vectorized line segment and requires less post-processing steps to be put into practical use. Our experiments show that the methods outperform state-of-the-art line segment detection models on multi-class line segment detection tasks with floor plan images. In the paper, we use our floor plan dataset named Large-scale Residential Floor Plan data (LRFP). The dataset contains a total of 271,035 floor plan images. The label corresponding to each picture contains the scale information, the categories and outlines of rooms, and the endpoint positions of line segments such as doors, windows, and walls. Our augmentation method makes the dataset adaptable to the drawing styles of as many countries and regions as possible.
+
+[Download paper here](https://arxiv.org/pdf/2303.03851.pdf)
