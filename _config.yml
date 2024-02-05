@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mingxiang Chen"
   avatar           : "profile.png"
-  bio              : "AI Application Engineer @ Ant Group"
+  bio              : "AI Application Engineer"
   location         : "Hangzhou, China"
-  employer         :
+  employer         : "Ant Group"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=re9Yg2YAAAAJ&hl=zh-CN"
   email            :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chenmingxiang110"
+  github           : "chenmingxiang110"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mingxiangchen1993/"
+  linkedin         : "mingxiangchen1993"
   orcid            :
   pinterest        :
   soundcloud       :
